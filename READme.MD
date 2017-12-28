@@ -18,6 +18,8 @@
 
 - Validate quantity of products in Cart before go to checkout page based on SKU .
 
+![Alt text](images/cart_exend_conf.png?raw=true "Configuration")
+
 - Using Observer  - None override anything .
 
 - Support multi website/stores .
