@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Clone this module
+1. Choose your magento version ( 2.1 or 2.2 ) - Clone this module
 
 2. Go to magento 2 root folder
 
@@ -24,7 +24,7 @@
 
 - Support multi website/stores .
 
-- Worked well for Magento version 2.1.* .
+
 
 ## Develop
 

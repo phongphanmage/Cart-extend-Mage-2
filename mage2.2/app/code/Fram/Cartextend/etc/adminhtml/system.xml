@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="framMage2" translate="label" sortOrder="370">
+            <label><![CDATA[<img width="50px" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGFnZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxMThweCIgaGVpZ2h0PSIzNXB4IiB2aWV3Qm94PSIwIDAgMTE4IDM1IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxMTggMzUiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwYXRoIGZpbGw9IiNFNDAwMkIiIGQ9Ik0xNi4xMDMsNi4xNGMtMC42ODItMC40NzItMS41MjItMC42My0yLjMwOS0wLjYzYy0xLjk5NCwwLTMuMjAxLDEuMTAyLTMuMjAxLDMuMjUzdjIuMzYyaDQuODh2NS4yNDhoLTQuODh2MTguMjA4SDQuMTkxVjE2LjM3M2gtMy44M3YtNS4yNDhoMy44M1Y4LjM0NEM0LjE5MSwzLjA0NCw3LjQ5NywwLDEyLjQ4MiwwYzEuNTIyLDAsMi42NzYsMC4yMSwzLjYyMSwwLjYzVjYuMTR6Ii8+PHBhdGggZmlsbD0iI0U0MDAyQiIgZD0iTTMzLjY4LDE3LjUyNmMtMC44OTItMC41MjUtMi4wNDctMC43ODctMy4yNTQtMC43ODdjLTIuMjA0LDAtMy45ODgsMS4xNTUtNC40NiwzLjMwNlYzNC41OGgtNi41MDdWMTEuMTI0aDYuNTA3djIuMzA5YzAuOTk3LTEuNjc5LDIuOTM5LTIuODMzLDUuMjQ4LTIuODMzYzEuMTAxLDAsMi4wOTgsMC4yMDksMi40NjYsMC40MlYxNy41MjZ6Ii8+PHBhdGggZmlsbD0iI0U0MDAyQiIgZD0iTTUwLjE1NSwyNi41Yy0wLjU3Ny0xLjI2LTIuMzYxLTIuMDQ2LTQuMjUtMi4wNDZjLTIuMDQ3LDAtNC4xNDYsMC44OTItNC4xNDYsMi44ODZjMCwyLjA0NiwyLjA5OSwyLjg4Niw0LjE0NiwyLjg4NmMxLjg4OSwwLDMuNjczLTAuNzg4LDQuMjUtMi4wNDdWMjYuNXogTTUwLjE1NSwzNC41ODF2LTEuMjZDNDkuMzY4LDM0LjEwOSw0Ny4wMDcsMzUsNDQuNDM1LDM1Yy00LjcyMiwwLTguNzEtMi43MjgtOC43MS03LjYwOGMwLTQuNDYsMy45ODgtNy41MDQsOS4wNzgtNy41MDRjMi4wNDcsMCw0LjQwOCwwLjY4Myw1LjM1MiwxLjM2NXYtMS43MzJjMC0xLjk5NC0xLjIwNy0zLjYyMS0zLjgzLTMuNjIxYy0xLjgzNywwLTIuOTM5LDAuODQtMy40NjQsMi4yMDRoLTYuMTkyYzAuNjgyLTQuMjUsNC41MTMtNy41MDQsOS44NjYtNy41MDRjNi4yNDQsMCw5Ljg2NSwzLjQxMSw5Ljg2NSw5LjAyNnYxNC45NTVINTAuMTU1eiIvPjxwYXRoIGZpbGw9IiNFNDAwMkIiIGQ9Ik04Ni40MjEsMTAuNmM0LjgyNywwLDcuNzE0LDMuMzU4LDcuNzE0LDguNjU4djE1LjMyM2gtNi41MDdWMjAuNjIzYzAtMi41MTktMS4xMDItNC4xOTgtMy4zNTgtNC4xOThjLTEuNjgsMC0zLjIwMSwxLjA0OS0zLjYyMSwzLjA0M3YxNS4xMTNoLTYuNTZWMjAuNjIzYzAtMi41MTktMS4wNDktNC4xOTgtMy4zMDUtNC4xOThjLTEuNjc5LDAtMy4yNTQsMS4wNDktMy42NzMsMy4wNDN2MTUuMTEzaC02LjUwN1YxMS4xMjVoNi41MDd2MS45NDFjMS4xNTQtMS40NjksMy4zMDUtMi40NjYsNS45MjktMi40NjZjMi43ODEsMCw0Ljk4NSwxLjI2LDYuMjk3LDIuOTkxQzgwLjg1OSwxMS45MTIsODMuMTE1LDEwLjYsODYuNDIxLDEwLjYiLz48L2c+PHBvbHlnb24gZmlsbD0iI0U0MDAyQiIgcG9pbnRzPSIxMDQuNDY4LDIuMzYxIDk3LjIyNywxMy45MDYgMTAzLjMxMywxMy45MDYgMTA3LjQ1OSw3LjI5NSAxMTEuNTUyLDEzLjkwNiAxMTcuNjM5LDEzLjkwNiAxMTAuMzk3LDIuMzYxICIvPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjxnPjwvZz48Zz48L2c+PGc+PC9nPjwvc3ZnPg==">]]></label>
+        </tab>
+        <section id="cartextend" translate="label" sortOrder="130" showInDefault="1" showInWebsite="1" showInStore="1">
+            <class>separator-top</class>
+            <label>Cart Extend</label>
+            <tab>framMage2</tab>
+            <resource>Fram_Cartextend::cartextend_config</resource>
+            <group id="general" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Module Configuration</label>
+
+                <field id="enable" translate="label" type="select" sortOrder="1" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Module Enable</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+
+                <field id="skuqty" translate="label" sortOrder="2" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Validate Qty Product In Cart</label>
+                    <frontend_model>Fram\Cartextend\Block\System\Config\Form\Field\Skuqty</frontend_model>
+                    <backend_model>Magento\Config\Model\Config\Backend\Serialized\ArraySerialized</backend_model>
+                    <comment>Allow to checkout if qty of these products equal or greater than this .Ensure you don't have duplicated SKU value on SKU field.</comment>
+                    <depends>
+                        <field id="cartextend/general/enable">1</field>
+                    </depends>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>
