@@ -24,6 +24,8 @@
 
 - Support multi website/stores .
 
+- Worked well for Magento version 2.1.* .
+
 ## Develop
 
 - Kindly let me know if you have better idea to improve this module .
